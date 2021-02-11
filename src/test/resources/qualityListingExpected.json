@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "typology": "CHALET",
+    "description": "Este piso es una ganga, compra, compra, COMPRA!!!!!",
+    "pictureUrls": [],
+    "houseSize": 300,
+    "gardenSize": null,
+    "score": 0,
+    "irrelevantSince": "2021-02-11T19:50:06.726+0000"
+  },
+  {
+    "id": 3,
+    "typology": "CHALET",
+    "description": "",
+    "pictureUrls": [
+      "http://www.idealista.com/pictures/2"
+    ],
+    "houseSize": 300,
+    "gardenSize": null,
+    "score": 20,
+    "irrelevantSince": "2021-02-11T19:50:06.730+0000"
+  },
+  {
+    "id": 7,
+    "typology": "GARAGE",
+    "description": "Garaje en el centro de Albacete",
+    "pictureUrls": [],
+    "houseSize": 300,
+    "gardenSize": null,
+    "score": 0,
+    "irrelevantSince": "2021-02-11T19:50:06.735+0000"
+  },
+  {
+    "id": 8,
+    "typology": "CHALET",
+    "description": "Maravilloso chalet situado en lAs afueras de un pequeño pueblo rural. El entorno es espectacular, las vistas magníficas. ¡Cómprelo ahora!",
+    "pictureUrls": [
+      "http://www.idealista.com/pictures/1",
+      "http://www.idealista.com/pictures/7"
+    ],
+    "houseSize": 300,
+    "gardenSize": null,
+    "score": 35,
+    "irrelevantSince": "2021-02-11T19:50:06.736+0000"
+  }
+]

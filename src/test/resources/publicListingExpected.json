@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2,
+    "typology": "FLAT",
+    "description": "Nuevo ático céntrico recién reformado. No deje pasar la oportunidad y adquiera este ático de lujo",
+    "pictureUrls": [
+      "http://www.idealista.com/pictures/4"
+    ],
+    "houseSize": 300,
+    "gardenSize": null
+  },
+  {
+    "id": 4,
+    "typology": "FLAT",
+    "description": "Ático céntrico muy luminoso y recién reformado, parece nuevo",
+    "pictureUrls": [
+      "http://www.idealista.com/pictures/5"
+    ],
+    "houseSize": 300,
+    "gardenSize": null
+  },
+  {
+    "id": 5,
+    "typology": "FLAT",
+    "description": "Pisazo,",
+    "pictureUrls": [
+      "http://www.idealista.com/pictures/3",
+      "http://www.idealista.com/pictures/8"
+    ],
+    "houseSize": 300,
+    "gardenSize": null
+  },
+  {
+    "id": 6,
+    "typology": "GARAGE",
+    "description": "",
+    "pictureUrls": [
+      "http://www.idealista.com/pictures/6"
+    ],
+    "houseSize": 300,
+    "gardenSize": null
+  }
+]
